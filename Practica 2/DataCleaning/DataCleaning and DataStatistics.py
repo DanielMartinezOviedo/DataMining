@@ -1,7 +1,7 @@
 
 import pandas as pd
 from tabulate import tabulate
-
+import matplotlib.pyplot as plt
 def print_tabulate(df: pd.DataFrame):
     print(tabulate(df, tablefmt='github', showindex=False, numalign='center', stralign='left',headers="keys"))
 
@@ -51,3 +51,13 @@ print("\nCantidad de valores en finlas: \n",df.count())
 print("\nMaximos de cada columna: \n",df.max())
 
 print("\nMinimos de cada columna: \n",df.min())
+
+fig, ax = plt.subplots()
+df.hist('Bailabilidad', ax=ax)
+fig.savefig('graficas/histogramaBailabilidad.png')
+df.hist('Duracion(ms)', ax=ax)
+fig.savefig('graficas/histogramaDuration.png')
+df.hist('Energia', ax=ax)
+fig.savefig('graficas/histogramaEnergia.png')
+df.hist('Popularidad', ax=ax)
+fig.savefig('graficas/histogramaPopularidad.png')
