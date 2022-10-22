@@ -1,0 +1,36 @@
+,Genero,Bailabilidad,Bailabilidad,Bailabilidad,Bailabilidad,Bailabilidad
+,,sum,count,mean,min,max
+0,acoustic pop,69,1,69.0,69,69
+1,alternative rock,35,1,35.0,35,35
+2,australian dance,63,1,63.0,63,63
+3,australian pop,82,1,82.0,82,82
+4,beatlesque,38,1,38.0,38,38
+5,boy band,60,1,60.0,60,60
+6,brostep,69,1,69.0,69,69
+7,cali rap,70,1,70.0,70,70
+8,canadian contemporary r&b,249,4,62.25,51,71
+9,canadian hip hop,154,2,77.0,75,79
+10,canadian pop,406,6,67.66666666666667,44,85
+11,chicago rap,51,1,51.0,51,51
+12,classic rock,41,1,41.0,41,41
+13,conscious hip hop,91,1,91.0,91,91
+14,dance pop,1969,28,70.32142857142857,42,86
+15,danish pop,77,1,77.0,77,77
+16,detroit hip hop,69,1,69.0,69,69
+17,dfw rap,467,7,66.71428571428571,56,76
+18,electro house,59,1,59.0,59,59
+19,electropop,198,4,49.5,35,70
+20,emo rap,161,2,80.5,74,87
+21,folk-pop,93,2,46.5,45,48
+22,gangster rap,73,1,73.0,73,73
+23,irish singer-songwriter,57,1,57.0,57,57
+24,latin,131,2,65.5,65,66
+25,lgbtq+ hip hop,88,1,88.0,88,88
+26,melodic rap,240,3,80.0,73,90
+27,modern rock,381,6,63.5,45,78
+28,neo soul,42,1,42.0,42,42
+29,north carolina hip hop,75,1,75.0,75,75
+30,pop,741,11,67.36363636363636,36,85
+31,pop dance,66,1,66.0,66,66
+32,pop rap,64,1,64.0,64,64
+33,rap,167,2,83.5,83,84
